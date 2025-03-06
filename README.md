@@ -7,6 +7,7 @@
 
   <p align="center">
     Простой калькулятор и API к нему, имплементированные на go. 
+    [ddd]
   </p>
 </div>
 
@@ -126,7 +127,7 @@ Response:
 <p align="right">(<a href="#readme-top">вернуться назад</a>)</p>
 
 
-
+[ddd]: https://github.com/AtariOverlord09/gowebcalc-async/blob/main/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5.png
 [net-http-url]: https://pkg.go.dev/net/http
 [Go-url]: https://go.dev/
 [Go]: https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge
